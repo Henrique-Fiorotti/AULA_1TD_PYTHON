@@ -4,6 +4,6 @@ ch = '\u2588'
 for i in range(len(txt) + 4):
     print(ch, end= '')
 print(f'\n{ch} {txt} {ch}')
-for i in range(len(txt) ):
+for i in range(len(txt) + 4):
     print(ch, end='')
 
